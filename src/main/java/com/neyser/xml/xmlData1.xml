@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE hoteles SYSTEM "xmlData1.dtd">
+<hoteles>
+    <hotel id="1">
+        <nombre>Ritz</nombre>
+        <categoria>5 estrellas</categoria>
+        <pvp>250</pvp>
+    </hotel>
+    <hotel id="2">
+        <nombre>Palace</nombre>
+        <categoria>5 estrellas</categoria>
+        <pvp>190</pvp>
+    </hotel>
+</hoteles>
